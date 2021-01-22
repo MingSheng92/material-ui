@@ -663,6 +663,15 @@ const appList = [
     link: 'https://www.buybags.de/',
     dateAdded: '2020-10-08',
   },
+  {
+    title: 'Mr Ingredient Store',
+    description:
+      'An online ordering app for customer to make online request for in-store pick up',
+    image: 'MrIngredientStore.jpg',
+    link: 'https://store.mymringredient.com',
+    similarWebVisits: 234,
+    dateAdded: '2021-01-23',
+  },
 ];
 
 export default appList;
